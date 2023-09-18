@@ -5,13 +5,14 @@ I love to understand the world.
 Interested in:
 - Philosophy
 - Cognition
-- Math
+- Complex System
 - Statistics
 - Artificial Intelligence
 - Music
 - Gaming.
 
 More about me : https://prakhosha.github.io/
+
 Contact me    : anggaprakhosha@gmail.com
 
 <!--
