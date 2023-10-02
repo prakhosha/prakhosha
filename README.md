@@ -1,31 +1,11 @@
 # Brief summary of me
 
-I love to understand the world. 
+If I have to defined myself, I would like to borrow Frankl's idea:
 
-Interested in:
-- Philosophy
-- Cognition
-- Complex System
-- Statistics
-- Artificial Intelligence
-- Music
-- Gaming.
+1. I would like to live a simple life, creating new representations and seeing the world through these new representations
+2. I would like to experience the worlds and model or represent it using many representations
+3. I would like to fight nihilisim, whether in me or another person
 
 More about me : https://prakhosha.github.io/
 
 Contact me    : anggaprakhosha@gmail.com
-
-<!--
-**prakhosha/prakhosha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
